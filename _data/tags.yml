@@ -1,16 +1,17 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
+Biztalk:
+  name: biztalk
+  description: Posts related with Biztalk technology
   cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
-  description: False
+SAP:
+  name: sap
+  description: Posts related with sap technology
+  cover: assets/images/speeches.jpg
+csharp:
+  name: c#
+  description: Posts related with C# technology
   cover: False
-fables:
-  name: fables
+other:
+  name: other
   description: A series of short stories that make you think.
   cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
-  description: False
-  cover: False
+
